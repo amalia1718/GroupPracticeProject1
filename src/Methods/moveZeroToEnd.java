@@ -18,7 +18,7 @@ public class moveZeroToEnd {
         arr[count++]=0;
     }
 
-        for (int j  = 0;  j<len ; j++) {
+        for (int j  = 0;  j<len ; j++){
             System.out.println(arr[j]);
         }
 
